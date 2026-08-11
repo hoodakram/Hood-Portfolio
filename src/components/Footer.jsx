@@ -21,7 +21,7 @@ export default function Footer() {
             </span>
             GitHub
           </a>
-          <a href="https://www.linkedin.com/in/hoodakram-8877832b4/" target="_blank" rel="noopener noreferrer" aria-label="Hood Akram on LinkedIn">
+          <a href="https://www.linkedin.com/in/hood-akram-8877832b4/" target="_blank" rel="noopener noreferrer" aria-label="Hood Akram on LinkedIn">
             <span className="foot-icon" aria-hidden="true">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4v-14h4v2" />
