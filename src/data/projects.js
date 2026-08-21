@@ -45,7 +45,7 @@ export const projects = [
     year: '2025 – 2026',
     status: 'Case study',
     category: 'Healthcare',
-    liveUrl: null,
+    liveUrl: 'https://medovate-five.vercel.app/',
     githubUrl: 'https://github.com/hoodakram',
     accent: '#a48bfa',
   },
