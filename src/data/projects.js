@@ -1,5 +1,30 @@
 export const projects = [
   {
+    id: 'havi-arch',
+    title: 'HAVI ARCH',
+    tagline: 'Architecture & interior design studio',
+    description:
+      'A polished studio website showcasing residential, commercial and renovation work, with clear service details and a guided project inquiry flow.',
+    longDescription: [
+      'HAVI ARCH is a website for an architecture and interior design studio. It introduces the studio’s approach, presents selected residential, commercial and renovation projects, and explains the services offered from early design through construction.',
+      'The experience includes project-category filters, a dark-mode toggle, a client review carousel and a contact section with studio details. Its editorial layout and architectural imagery keep the work front and center while making it easy for prospective clients to start a project.',
+    ],
+    tags: ['Architecture', 'Interior Design', 'Responsive Design', 'Project Showcase'],
+    features: [
+      'Portfolio of residential, commercial and renovation projects',
+      'Category filters for selected work',
+      'Architecture and interior design service details',
+      'Client review carousel and dark-mode toggle',
+      'Contact section with project inquiry information',
+    ],
+    year: '2026',
+    status: 'Live',
+    category: 'Architecture',
+    liveUrl: 'https://havi-arch.vercel.app/',
+    githubUrl: 'https://github.com/hoodakram',
+    accent: '#c8a47a',
+  },
+  {
     id: 'shamain-store',
     title: 'Shamain Store',
     tagline: 'Full-stack e-commerce platform',
