@@ -20,7 +20,7 @@ export default function Projects() {
             <div className="section-head">
               <div className="eyebrow">projects</div>
               <h1>Things I've built</h1>
-              <p>Two full‑stack builds — one commercial, one product‑style with real workflows.</p>
+              <p>Three projects across e-commerce, healthcare workflows, and architecture & interior design.</p>
             </div>
           </Reveal>
 
