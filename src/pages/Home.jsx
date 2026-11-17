@@ -66,7 +66,7 @@ export default function Home() {
             </p>
             <div className="hero-actions">
               <Link to="/projects" className="btn btn-solid">View projects →</Link>
-              <a href="/Hood_Akram_Resume.pdf" download className="btn btn-ghost" aria-label="Download resume">Download resume</a>
+              <a href="/Hood_Akram_CV.pdf" download className="btn btn-ghost" aria-label="Download resume">Download resume</a>
             </div>
             <div className="hero-stats">
               <div><b>5+</b><span>Projects shipped</span></div>
